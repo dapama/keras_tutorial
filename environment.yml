@@ -1,0 +1,4 @@
+name: keras_tutorial
+dependencies:
+  - python=3.8.1
+prefix: /Users/dpachecom/anaconda3/envs/keras_tutorial
