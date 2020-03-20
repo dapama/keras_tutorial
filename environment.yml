@@ -1,4 +1,7 @@
 name: keras_tutorial
 dependencies:
-  - python=3.8.1
+  - python=3.7
+  - keras=2.3.1
+  - scikit-learn
+  - numpy
 prefix: /Users/dpachecom/anaconda3/envs/keras_tutorial
